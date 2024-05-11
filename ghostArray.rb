@@ -1,16 +1,17 @@
+# Student name: Chris Smith
+# Student ID: 0406238
+# Course: WEBD-3011 (255589) Agile Full Stack Web Development
+# Instructor: Diogo Iwasaki
+# Date: May , 2024
+
 # 2) Create an array of hashes named ‘ghosts’ to hold the following information:
-
 # Inky is 4 years old, loves reindeers and has 25 dollars in the bank.
-
 # Pinky is 5 years old, loves garden tools and has 14 dollars in the bank.
-
 # Blinky is 7 years old, loves ninjas and has 18.03 dollars in the bank.
-
 # Clyde is 6 years old, loves yarn and has 0 dollars in the bank.
-
 # The following snippet of code should be able to process your ghosts array and generate the above italicized text.
 
-ghosts = [    
+ghosts = [    #an array of hashes that contains four ghosts and related info, to be printed out by a loop later on.
     {:name => 'Inky', :age => '4', :loves => 'reindeer', :net_worth => '25'},
     {:name => 'Pinky', :age => '5', :loves => 'garden tools', :net_worth => '14'},
     {:name => 'Blinky', :age => '7', :loves => 'ninjas', :net_worth => '18.03'},
