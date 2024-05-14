@@ -2,7 +2,7 @@
 # Student ID: 0406238
 # Course: WEBD-3011 (255589) Agile Full Stack Web Development
 # Instructor: Diogo Iwasaki
-# Date: May , 2024
+# Date: May 14, 2024
 
 # 2) Create an array of hashes named ‘ghosts’ to hold the following information:
 # Inky is 4 years old, loves reindeers and has 25 dollars in the bank.

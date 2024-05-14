@@ -2,7 +2,7 @@
 # Student ID: 0406238
 # Course: WEBD-3011 (255589) Agile Full Stack Web Development
 # Instructor: Diogo Iwasaki
-# Date: May , 2024
+# Date: May 24, 2024
 
 # 3) Write a script that uses the JSON provided by the dog.ceo API to print out a nicely formatted list of dog breeds and sub-breeds. 
 # Some starter code:

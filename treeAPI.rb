@@ -1,3 +1,8 @@
+# Student name: Chris Smith
+# Student ID: 0406238
+# Course: WEBD-3011 (255589) Agile Full Stack Web Development
+# Instructor: Diogo Iwasaki
+# Date: May 14, 2024
 
 require 'net/http'
 require 'json'
