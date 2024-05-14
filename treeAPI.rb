@@ -10,10 +10,10 @@ trees = JSON.parse(response) # Convert JSON data into Ruby data.
 
 treecounter = 0
 
-trees.each do |tree|
-    if tree["common_name"].include? "ash"
+trees.each do |tree| #looping over the JSON data to find all entries with "ash" in the name
+    if tree["common_name"].downcase.include? "ash"
         treecounter += 1
     end
 end
 
-puts "There are #{treecounter} Ash trees"
+puts "There are #{treecounter} Ash trees" #output to console the total trees found in the loop
